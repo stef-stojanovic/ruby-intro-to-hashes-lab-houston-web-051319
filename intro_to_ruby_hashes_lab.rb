@@ -23,19 +23,19 @@ monopoly =  {
     {
       :reading_railroad=>
       {
-        "mortgage_value"=>"$100"
+        "mortgage_value" => "$100"
       },
       :pennsylvania_railroad=>
       {
-        "mortgage_value"=>"$200"
+        "mortgage_value" => "$200"
       },
       :b_and_o_railroad=>
       {
-        "mortgage_value"=>"$400"
+        "mortgage_value" => "$400"
       },
       :shortline=>
       {
-        "mortgage_value"=>"$800"
+        "mortgage_value" => "$800"
       }
     }
   }
@@ -58,19 +58,19 @@ monopoly =  {
     {
       :reading_railroad=>
       {
-        "mortgage_value"=>"$100"
+        "mortgage_value" => "$100"
       },
       :pennsylvania_railroad=>
       {
-        "mortgage_value"=>"$200"
+        "mortgage_value" => "$200"
       },
       :b_and_o_railroad=>
       {
-        "mortgage_value"=>"$400"
+        "mortgage_value" => "$400"
       },
       :shortline=>
       {
-        "mortgage_value"=>"$800"
+        "mortgage_value" => "$800"
       }
     }
   }
@@ -93,19 +93,19 @@ def monopoly_with_third_tier
     {
       :reading_railroad=>
       {
-        "mortgage_value"=>"$100"
+        "mortgage_value" => "$100"
       },
       :pennsylvania_railroad=>
       {
-        "mortgage_value"=>"$200"
+        "mortgage_value" => "$200"
       },
       :b_and_o_railroad=>
       {
-        "mortgage_value"=>"$400"
+        "mortgage_value" => "$400"
       },
       :shortline=>
       {
-        "mortgage_value"=>"$800"
+        "mortgage_value" => "$800"
       }
     }
   }
@@ -128,19 +128,19 @@ monopoly =  {
     {
       :reading_railroad=>
       {
-        "mortgage_value"=>"$100"
+        "mortgage_value" => "$100"
       },
       :pennsylvania_railroad=>
       {
-        "mortgage_value"=>"$200"
+        "mortgage_value" => "$200"
       },
       :b_and_o_railroad=>
       {
-        "mortgage_value"=>"$400"
+        "mortgage_value" => "$400"
       },
       :shortline=>
       {
-        "mortgage_value"=>"$800"
+        "mortgage_value" => "$800"
       }
     }
   }
